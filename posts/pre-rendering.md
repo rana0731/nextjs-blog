@@ -1,5 +1,5 @@
 ---
-title: "Жишээ №1: Two Forms of Pre-rendering"
+title: "Жишээ №2: Two Forms of Pre-rendering"
 date: "2020-01-01"
 ---
 
